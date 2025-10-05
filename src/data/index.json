@@ -1,0 +1,120 @@
+{
+    "skills": [{
+            "id": "1",
+            "src": "./img/tag-1.png",
+            "title": "Programming Languages",
+            "description": "Java (Core & Advanced), JavaScript, Python, C "
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": " Spring Boot, Spring MVC, Hibernate, Java Servlets, JPA, Node.js, Express.js "
+        }, {
+            "id": "3",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": " HTML, CSS, React.js, Redux, Bootstrap, Tailwind CSS "
+        },
+
+        {
+            "id": "4",
+            "src": "./img/feather-pen-2.png",
+            "title": "Databases",
+            "description": "MongoDB, MySQL, JDBC"
+        },
+        {
+            "id": "5",
+            "src": "./img/feather-pen-2.png",
+            "title": " Cloud & Deployment",
+            "description": "  AWS, EC2, S3, RDS, VPC, IAM, Lambda, CloudWatch, Route 53, ELB, EBS, Vercel, Render"
+        },
+        {
+            "id": "6",
+            "src": "./img/feather-pen-1.png",
+            "title": "Development Tools",
+            "description": " Git, GitHub, Postman, REST API"
+        },
+        {
+            "id": "7",
+            "src": "./img/feather-pen-1.png",
+            "title": "Soft Skills",
+            "description": "Problem-Solving, Debugging, Decision-Making, Teamwork, UI/UX Design"
+        }
+    ],
+    "portfolio": [{
+            "id": "1",
+            "src": "./img/image1.png",
+            "title": "Code Colab",
+            "description": "Real time collaborative coding platform with integrated video conference,This project aims to enable multiple users to remotely code together via integrated video in the same interface.Allowing real-time code editing, updating and syncing ",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/auto_share.png",
+            "title": " Smart Auto-Sharing App",
+            "description": "Developed a location - based ride - sharing platform that connects solo passengers with nearby commuters traveling in the same direction,enabling them to share auto rides.reducing average ride costs by 25 % and minimize traffic congestion.",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/image.png",
+            "title": "My Portfolio",
+            "description": "My portfolio, built with React.js, showcases my  Personal Information, Skills, Projects, and Contact details. It highlights my full-stack development expertise and provides an interactive way to explore my work and connect with me.",
+            "link": "View In Github"
+        }
+    ],
+    "testimonial": [{
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kristin Watson",
+            "author_designation": "Louis Vuitton"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kathryn Murphy",
+            "author_designation": "McDonald's"
+        }
+    ],
+
+    "educationData": [{
+            "id": 1,
+            "degree": "B.E. in Computer Science & Engineering",
+            "institute": "University BDT College of Engineering, Davanagere",
+            "grade": "CGPA: 8.5",
+            "duration": "2021 – 2025",
+            "icon": "📘"
+        },
+        {
+            "id": 2,
+            "degree": "Pre-University Course (PUC) – Science",
+            "institute": "RGS Govt PU College, Kittur",
+            "grade": "94.5%",
+            "duration": "2019 – 2021",
+            "icon": "📗"
+        },
+        {
+            "id": 3,
+            "degree": "SSLC (10th Grade)",
+            "institute": "KPM Govt High School, Hoolikatti",
+            "grade": "90.72%",
+            "duration": "2018 – 2019",
+            "icon": "📙"
+        }
+    ]
+
+
+}
